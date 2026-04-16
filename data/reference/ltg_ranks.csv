@@ -1,0 +1,25 @@
+final_level,ltg_rank,mkLTG_rank
+0,no rank,no rank
+1,superkingdom,kingdom
+2,kingdom,kingdom
+3,subkingdom,kingdom
+4,phylum,phylum
+5,subphylum,phylum
+3,clade,kingdom
+6,superclass,phylum
+8,infraclass,phylum
+9,class,class
+9,cohort,class
+10,subclass,class
+12,infraorder,class
+12,superorder,class
+14,parvorder,class
+15,order,order
+16,suborder,order
+16,superfamily,order
+17,family,family
+17,subtribe,family
+17,tribe,family
+18,subfamily,family
+19,genus,genus
+20,species,species
